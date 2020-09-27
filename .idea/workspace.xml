@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bc5f027-0138-4944-b693-e424c4879aca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ViewResolver</find>
+      <find>download</find>
+      <find>jun</find>
+      <find>http</find>
+      <find>https</find>
+      <find>txt</find>
+      <find>.txt</find>
+      <find>exists()</find>
+      <find>RandomAccessFile</find>
+      <find>1024</find>
+      <find>2048</find>
+      <find>10242048</find>
+      <find>uuuu</find>
+      <find>singleUploadForm</find>
+      <find>file-input</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>1024</replace>
+      <replace>2048</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\javatools\mavenlibary" />
+        <option name="mavenHome" value="E:/javatools/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\javatools\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1faDpDx0AsPNG5ZDVhokbNM8VtG" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.wahaha.demo.controller" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="com.wahaha.demo.controller.UploadFileController" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wahaha.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\file-upload-download\src\main\resources\static" />
+      <recent name="D:\IdeaProjects\fileupload-demo\src\main\resources\static\js" />
+      <recent name="D:\IdeaProjects\fileupload-demo\src\main\resources\templates" />
+      <recent name="D:\IdeaProjects\fileupload-demo\src\main\resources\static\css" />
+      <recent name="D:\IdeaProjects\fileupload-demo\src\main\resources\templates\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wahaha.demo.controller" />
+      <recent name="com.wahaha.demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\fileupload-demo\src\main\resources\static\js" />
+      <recent name="D:\IdeaProjects\fileupload-demo\src\main\resources\static" />
+      <recent name="E:\IdeaProjects\fileupload-demo\src\main\resources\templates" />
+      <recent name="E:\IdeaProjects\fileupload-demo\src\main\resources\static" />
+      <recent name="E:\IdeaProjects\fileupload-demo\src\main\resources\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wahaha.demo.controller.ListTest1" />
+      <module name="fileupload-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wahaha.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDownLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wahaha.demo.controller.TestDownLoad" />
+      <module name="fileupload-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wahaha.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadFileControllerTest.downLoadFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fileupload-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wahaha.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wahaha.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.wahaha.demo.controller.UploadFileControllerTest" />
+      <option name="METHOD_NAME" value="downLoadFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadFileControllerTest.downloadFile (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fileupload-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wahaha.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wahaha.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.wahaha.demo.controller.UploadFileControllerTest" />
+      <option name="METHOD_NAME" value="downloadFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadFileControllerTest.uploadFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fileupload-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wahaha.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wahaha.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.wahaha.demo.controller.UploadFileControllerTest" />
+      <option name="METHOD_NAME" value="uploadFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fileupload-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wahaha.demo.DemoApplication" />
+      <option name="ACTIVE_PROFILES" value="debug" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDownLoad" />
+        <item itemvalue="Application.ListTest1" />
+        <item itemvalue="JUnit.UploadFileControllerTest.downLoadFile" />
+        <item itemvalue="JUnit.UploadFileControllerTest.uploadFile" />
+        <item itemvalue="JUnit.UploadFileControllerTest.downloadFile (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bc5f027-0138-4944-b693-e424c4879aca" name="Default Changelist" comment="" />
+      <created>1561520376703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561520376703</updated>
+      <workItem from="1561520392229" duration="3919000" />
+      <workItem from="1561547961507" duration="207000" />
+      <workItem from="1561562823627" duration="1848000" />
+      <workItem from="1561598252834" duration="11266000" />
+      <workItem from="1561618923016" duration="958000" />
+      <workItem from="1561621351087" duration="10990000" />
+      <workItem from="1561685146958" duration="825000" />
+      <workItem from="1561690382254" duration="651000" />
+      <workItem from="1561713254488" duration="351000" />
+      <workItem from="1561713621637" duration="5937000" />
+      <workItem from="1561809982342" duration="12040000" />
+      <workItem from="1561865377033" duration="4803000" />
+      <workItem from="1561887616820" duration="7467000" />
+      <workItem from="1561943327180" duration="281000" />
+      <workItem from="1561962651928" duration="335000" />
+      <workItem from="1561963137889" duration="64000" />
+      <workItem from="1561963234308" duration="428000" />
+      <workItem from="1561963983347" duration="597000" />
+      <workItem from="1561964827146" duration="1337000" />
+      <workItem from="1561966196196" duration="585000" />
+      <workItem from="1561967021368" duration="593000" />
+      <workItem from="1561975304107" duration="705000" />
+      <workItem from="1561976099718" duration="3931000" />
+      <workItem from="1562029701372" duration="9497000" />
+      <workItem from="1562053852770" duration="11553000" />
+      <workItem from="1562072760855" duration="623000" />
+      <workItem from="1562116334696" duration="26967000" />
+      <workItem from="1562149640632" duration="2410000" />
+      <workItem from="1562202821878" duration="7283000" />
+      <workItem from="1562212353157" duration="5172000" />
+      <workItem from="1562222993719" duration="6184000" />
+      <workItem from="1562229207428" duration="1438000" />
+      <workItem from="1562230684722" duration="9000" />
+      <workItem from="1562230716971" duration="2028000" />
+      <workItem from="1562232770410" duration="5369000" />
+      <workItem from="1562289730043" duration="2913000" />
+      <workItem from="1562293265691" duration="463000" />
+      <workItem from="1562293757824" duration="12658000" />
+      <workItem from="1562312430986" duration="437000" />
+      <workItem from="1562312894921" duration="558000" />
+      <workItem from="1562313519105" duration="2056000" />
+      <workItem from="1562315703759" duration="210000" />
+      <workItem from="1562316080144" duration="159000" />
+      <workItem from="1562316742179" duration="1962000" />
+      <workItem from="1562318772300" duration="3183000" />
+      <workItem from="1562323364588" duration="90000" />
+      <workItem from="1562329490517" duration="5463000" />
+      <workItem from="1562337650087" duration="2401000" />
+      <workItem from="1562545733136" duration="1493000" />
+      <workItem from="1562548503271" duration="2609000" />
+      <workItem from="1562551214603" duration="226000" />
+      <workItem from="1562551489712" duration="25513000" />
+      <workItem from="1562635291868" duration="1477000" />
+      <workItem from="1562641863244" duration="547000" />
+      <workItem from="1562642943789" duration="623000" />
+      <workItem from="1562668097412" duration="61000" />
+      <workItem from="1562752660963" duration="242000" />
+      <workItem from="1562754361892" duration="1654000" />
+      <workItem from="1562771493281" duration="783000" />
+      <workItem from="1562808559156" duration="7514000" />
+      <workItem from="1562828641509" duration="7547000" />
+      <workItem from="1562858168995" duration="685000" />
+      <workItem from="1562894863092" duration="2143000" />
+      <workItem from="1562911200964" duration="1362000" />
+      <workItem from="1562917763599" duration="660000" />
+      <workItem from="1563012374240" duration="707000" />
+      <workItem from="1563013136020" duration="4208000" />
+      <workItem from="1563017412172" duration="1329000" />
+      <workItem from="1563105877487" duration="4301000" />
+      <workItem from="1563152945565" duration="4598000" />
+      <workItem from="1563183466823" duration="166000" />
+      <workItem from="1563184026014" duration="4851000" />
+      <workItem from="1563199463240" duration="1375000" />
+      <workItem from="1563239271176" duration="4342000" />
+      <workItem from="1563247019302" duration="960000" />
+      <workItem from="1563249521473" duration="6360000" />
+      <workItem from="1563265649947" duration="7924000" />
+      <workItem from="1563287904886" duration="5404000" />
+      <workItem from="1563327174722" duration="2956000" />
+      <workItem from="1563514942354" duration="798000" />
+      <workItem from="1566207912397" duration="186000" />
+      <workItem from="1571291980151" duration="58000" />
+      <workItem from="1572246078509" duration="44000" />
+      <workItem from="1576755704891" duration="1090000" />
+      <workItem from="1576821803064" duration="2279000" />
+      <workItem from="1596447493384" duration="85000" />
+      <workItem from="1601202661841" duration="819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 07m 46s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 09m 36s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 10m 35s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 11m 46s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 12m 37s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 13m 22s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 15m 17s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 16m 01s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.08 at 18h 26m 07s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadFileControllerTest_downLoadFile - 2019.07.10 at 18h 53m 51s.xml">
+      <configuration name="UploadFileControllerTest.downLoadFile" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wahaha/demo/service/FileServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/wahaha/demo/controller/TestDownLoad.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wahaha/demo/controller/UploadFileController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="conn" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fileupload_demo$DemoApplication.ic" NAME="DemoApplication Coverage Results" MODIFIED="1561897360156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/fileupload_demo$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1562297030949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wahaha.demo.controller.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

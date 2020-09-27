@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.wahaha.demo.property.FileProperties",
+      "sourceType": "com.wahaha.demo.property.FileProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.wahaha.demo.property.FileProperties"
+    }
+  ],
+  "hints": []
+}
